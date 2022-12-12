@@ -2,9 +2,9 @@
 int main()
 {
 	int a,b,temp1,temp2,i,cnt=0;
-	printf("Enter the number \n");
+	printf("Enter the 1st number \n");
 	scanf("%d",&a);
-	printf("Enter the number\n");
+	printf("Enter the 2st number\n");
 	scanf("%d",&b);
 	for(i=31;i>=0;--i)
 	{
